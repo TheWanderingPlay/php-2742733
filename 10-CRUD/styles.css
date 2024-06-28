@@ -1,0 +1,11 @@
+.BARRA{
+    z-index: 2;
+    width: 99vw;
+}
+.imagenAnimate{
+    height: 70vh;
+    background-image: url(./Multimedia/98.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 13%;
+}
